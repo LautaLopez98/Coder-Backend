@@ -49,4 +49,4 @@ const product = new ProductManager();
 console.log(product.addProduct('Juego 1', 'Juego número 1', '20000', 'thumbnail', 'FZ515', '10')); 
 console.log(product.addProduct('Juego 2', 'Juego número 2', '20000', 'thumbnail', 'FS515', '10')); 
 console.log(product.getProducts());
-console.log(product.getProductById(2));
+console.log(product.getProductById(3));
