@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "title": "Juego 1",
+    "description": "Juego número 1",
+    "price": "20000",
+    "thumbnail": "thumbnail",
+    "code": "FZ515",
+    "stock": "10"
+  },
+  {
+    "id": 2,
+    "title": "Juego 2",
+    "description": "Juego número 2",
+    "price": "30000",
+    "thumbnail": "thumbnail",
+    "code": "FS515",
+    "stock": "10"
+  },
+  {
+    "id": 3,
+    "title": "Juego 3",
+    "description": "Juego número 3",
+    "price": "40000",
+    "thumbnail": "thumbnail",
+    "code": "JZ515",
+    "stock": "10"
+  },
+  {
+    "id": 4,
+    "title": "Juego 4",
+    "description": "Juego número 4",
+    "price": "24000",
+    "thumbnail": "thumbnail",
+    "code": "KS515",
+    "stock": "10"
+  },
+  {
+    "id": 5,
+    "title": "Juego 5",
+    "description": "Juego número 5",
+    "price": "25000",
+    "thumbnail": "thumbnail",
+    "code": "4Z515",
+    "stock": "10"
+  },
+  {
+    "id": 6,
+    "title": "Juego 6",
+    "description": "Juego número 6",
+    "price": "12000",
+    "thumbnail": "thumbnail",
+    "code": "ES515",
+    "stock": "10"
+  },
+  {
+    "id": 7,
+    "title": "Juego 7",
+    "description": "Juego número 7",
+    "price": "15000",
+    "thumbnail": "thumbnail",
+    "code": "SZ515",
+    "stock": "10"
+  },
+  {
+    "id": 8,
+    "title": "Juego 8",
+    "description": "Juego número 8",
+    "price": "26000",
+    "thumbnail": "thumbnail",
+    "code": "DS515",
+    "stock": "10"
+  },
+  {
+    "id": 9,
+    "title": "Juego 9",
+    "description": "Juego número 9",
+    "price": "22000",
+    "thumbnail": "thumbnail",
+    "code": "XZ515",
+    "stock": "10"
+  },
+  {
+    "id": 10,
+    "title": "Juego 10",
+    "description": "Juego número 10",
+    "price": "30000",
+    "thumbnail": "thumbnail",
+    "code": "MS515",
+    "stock": "10"
+  }
+]
